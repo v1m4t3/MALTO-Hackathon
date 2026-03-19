@@ -17,5 +17,5 @@ The goal of the dataset is to train models that can detect whether a text is wri
 
 The dataset is provided in CSV format and contains the following files:
 
-train.csv – Training dataset containing text samples and their corresponding labels.
-test.csv – Test dataset containing text samples without labels. Participants must generate predictions for these samples.
+- train.csv – Training dataset containing text samples and their corresponding labels.
+- test.csv – Test dataset containing text samples without labels. Participants must generate predictions for these samples.
